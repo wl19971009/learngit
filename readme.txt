@@ -5,5 +5,5 @@ Git tracks changes of files.
 My stupid boss still prefers SVNssss.
 Creating a new branch is quick.
 CGit is free software
-wl
+wlgpss
 {\rtf1}
